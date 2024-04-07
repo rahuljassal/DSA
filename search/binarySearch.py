@@ -32,4 +32,4 @@ def recBinary(arr, n, target):
     return recBinarySearch(arr, 0, n - 1)
 
 
-print(recBinary(arr, len(arr), 86))
+print(recBinary(arr, len(arr), 8))
